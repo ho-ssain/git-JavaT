@@ -10,3 +10,4 @@ class Ternary {
         System.out.println("Absolute value of " + i + " is " + k);
     }
 }
+//...........................................................................
